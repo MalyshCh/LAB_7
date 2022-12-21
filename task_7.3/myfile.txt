@@ -1,0 +1,6 @@
+1 stroka
+2 stroka
+3 3 3 3 3 3 3 3 3
+read stroka
+erase2
+exitexit
